@@ -2,6 +2,10 @@
 
 * notes
 
+  + N Omega potential and fit.ipynb
+
+  plot NOmega(5S2) potential and fitting using gaussian + Yukawa-squared with form factor
+
   + R-correlator.ipynb
 
   plot time-dependence of the R-correlator
