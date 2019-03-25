@@ -41,3 +41,9 @@
   + n_omega_spinX_pot_av.pkl, n_omega_spinX_pot_jk.pkl
 
   pickle file for average and jack-knife samples of the potential (See "N Omega potential and fit.ipynb")
+
+* src
+
+  + n_omega_pot.py
+
+  python code to calculate potentials from raw NBS files
