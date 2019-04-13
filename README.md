@@ -1,5 +1,10 @@
 # n omega near phys pt
 
+This is the repository of the published paper
+"N-Omega dibaryon from lattice QCD near the physical point",
+Phys. Lett. B792(2019)284-289, DOI:10.1016/j.physletb.20199.03.050
+[arXiv:1810.03416 [hep-lat]](https://arxiv.org/abs/1810.03416).
+
 * notes
 
   + N Omega potential and fit.ipynb
@@ -25,7 +30,6 @@
   + scattering phase shift.ipynb
 
   calculate the scattering phase shift from fitted parameter (Run "N Omega potential and fit.ipynb" before)
-
 
 * data
 
